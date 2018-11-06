@@ -8,7 +8,8 @@ private
                                  :email, 
                                  :password, 
                                  :password_confirmation, 
-                                 :username)
+                                 :username,
+                                 :subdomain)
   end
 
   def account_update_params
@@ -18,7 +19,8 @@ private
                                  :password, 
                                  :password_confirmation, 
                                  :current_password, 
-                                 :username)
+                                 :username,
+                                 :subdomain)
   end
 
 end
