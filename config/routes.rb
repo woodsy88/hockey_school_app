@@ -8,7 +8,7 @@ Rails.application.routes.draw do
 
   get 'pages/home'
   get 'pages/about'
-  
+  resources :users
 
   root to: 'pages#home'
 end

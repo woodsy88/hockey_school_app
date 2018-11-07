@@ -73,3 +73,5 @@ gem 'devise'
 gem 'bootstrap', '~> 4.1', '>= 4.1.3'
 
 gem 'jquery-rails'
+
+gem 'apartment', '~> 2.2'
