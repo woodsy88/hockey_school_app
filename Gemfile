@@ -75,3 +75,5 @@ gem 'bootstrap', '~> 4.1', '>= 4.1.3'
 gem 'jquery-rails'
 
 gem 'apartment', '~> 2.2'
+
+gem 'name_of_person', '~> 1.0'
